@@ -8,6 +8,7 @@
         <span class="message">{{ doc.message }}</span>
       </div>
     </div>
+    <div v-else>loading...</div>
   </div>
 </template>
 

@@ -42,6 +42,10 @@ export default {
 .welcome {
   text-align: center;
   padding: 20px 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .welcome form {
   min-width: 300px;
