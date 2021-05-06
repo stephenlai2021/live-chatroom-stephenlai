@@ -44,7 +44,7 @@ export default {
   padding: 20px 0;
 }
 .welcome form {
-  max-width: 300px;
+  min-width: 300px;
   margin: 20px auto;
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@ export default {
   margin: 20px 0 10px;
 }
 .welcome input {
-  width: 100%;
+  width: 80%;
   padding: 10px;
   border-radius: 20px;
   border: 1px solid #eee;
