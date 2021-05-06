@@ -1,16 +1,15 @@
 body {
   background: #e3eaff;
   color: #444;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
   height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
 }
 .container {
-  width: 100%;
-  max-width: 960px;
-  margin: auto;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   box-shadow: 2px 4px 6px rgba(28, 6, 49, 0.1);
   background: white;
 }
