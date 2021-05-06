@@ -6,8 +6,6 @@ const user = ref(auth.currentUser)
 
 // onAuthStateChanged must have arguments, so async/await is not applicable
 auth.onAuthStateChanged((_user) => {
-  // console.log('user name: ', _user.displayName)
-  // console.log('user email: ', _user.email)
   user.value = _user
 })
 
