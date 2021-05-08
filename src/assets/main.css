@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #e3eaff;
+  /* background: #e3eaff; */
   color: #444;
   height: 100vh;
   max-width: 800px;
