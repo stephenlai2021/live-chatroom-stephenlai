@@ -1,0 +1,13 @@
+{
+  "appId": "dev.chat.stephenlai",
+  "appName": "live_chatroom",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

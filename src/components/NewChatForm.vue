@@ -58,7 +58,7 @@ textarea {
   width: 100%;
   max-width: 100%;
   /* margin-bottom: 6px; */
-  padding: 6px;
+  padding: 10px 20px;
   box-sizing: border-box;
   border: 0;
   /* border-radius: 20px; */

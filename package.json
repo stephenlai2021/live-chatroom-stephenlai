@@ -9,6 +9,9 @@
     "push": "git add . && git commit -m commit && git push origin master"
   },
   "dependencies": {
+    "@capacitor/android": "^2.4.7",
+    "@capacitor/cli": "^2.4.7",
+    "@capacitor/core": "^2.4.7",
     "core-js": "^3.6.5",
     "date-fns": "^2.21.2",
     "firebase": "^8.4.3",
